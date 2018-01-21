@@ -3,8 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.strobertchs.cs.mathgame"
-        minSdkVersion 14
+        applicationId "com.strobertchs.mathgame"
+        minSdkVersion 18
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
